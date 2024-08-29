@@ -9,4 +9,4 @@ kv_namespaces = [
 ]
 
 [vars]
-HOST_URL = "http://localhost:8787"
+HOST_URL = "https://shortener.kevinlupera.workers.dev"
